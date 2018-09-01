@@ -1,5 +1,0 @@
-@mixin shop-ui-product-card($name: '.product-card') {
-    @include shop-ui-card($name) {
-        @content;
-    }
-}

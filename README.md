@@ -1,8 +1,15 @@
-# Spryker Commerce OS
+# QuickOrderPageExtension Module
+[![Build Status](https://travis-ci.org/spryker-shop/quick-order-page-extension.svg)](https://travis-ci.org/spryker-shop/quick-order-page-extension)
+[![Coverage Status](https://coveralls.io/repos/github/spryker-shop/quick-order-page-extension/badge.svg)](https://coveralls.io/github/spryker-shop/quick-order-page-extension)
 
-## Shop Modules
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-shop-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-shop-core/?branch=master)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%207.1-8892BF.svg)](https://php.net/)
+The module provides plugin interfaces for extending quick order page module functionality.
 
-### Links
-- **[Spryker Documentation](https://academy.spryker.com/)**
+## Installation
+
+```
+composer require spryker-shop/quick-order-page-extension
+```
+
+## Documentation
+
+[Spryker Documentation](https://academy.spryker.com/developing_with_spryker/module_guide/modules.html)
